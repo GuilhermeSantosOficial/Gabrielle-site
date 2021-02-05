@@ -144,7 +144,7 @@ header .navigation li a{
         position: relative;
         width: 30px;
         height: 30px;
-        background: url(/css/images/menu1.png);
+        background: url(/public/css/images/menu1.png);
         background-size: 30px;
         background-repeat: no-repeat;
         background-position: center;
@@ -155,7 +155,7 @@ header .navigation li a{
     header .toggleMenu.active{
         position: fixed;
         right: 40px;
-        background: url(/css/images/close1.png);
+        background: url(/public/css/images/close1.png);
         background-size: 25px;
         background-repeat: no-repeat;
         background-position: center;
